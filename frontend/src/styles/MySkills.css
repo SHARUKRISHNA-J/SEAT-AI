@@ -1,0 +1,39 @@
+.skills-page {
+  display: flex;
+}
+
+.skills-container {
+  width: 100%;
+  padding: 30px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+th {
+  background: #1e293b;
+  color: white;
+}
+
+.skill-form {
+  margin-top: 30px;
+}
+
+.skill-form input,
+.skill-form select {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.skill-form button {
+  padding: 10px 20px;
+}
